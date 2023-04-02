@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "514598555350",
+    "project_id": "fir-project-st81",
+    "storage_bucket": "fir-project-st81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514598555350:android:fac1c4d3d472db1b00c377",
+        "android_client_info": {
+          "package_name": "com.example.second_project_fireabse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514598555350-umjjgfmi0semfmkvlu7t6cnms8kg9p5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWKE-VRUffzHJDJtEO2Bl2azE-rM3Dz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514598555350-umjjgfmi0semfmkvlu7t6cnms8kg9p5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514598555350-8b4hl1ndpg0a8k4ceun0c7o1ciq4hpb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secondProjectFireabse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
